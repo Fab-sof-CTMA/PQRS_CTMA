@@ -4,7 +4,7 @@ Este proyecto de osTicket está diseñado para el Servicio Nacional de Aprendiza
 
 <img src="https://example.com/images/logo.png" alt="Logo de Mi Proyecto">
 
-<img src="../upload/images/oscar-favicon-16x16.png" alt="Logo de Mi Proyecto">
+<img src="https://example.com/./upload/images/oscar-favicon-16x16.png" alt="Logo de Mi Proyecto">
 
 
 ## Requisitos
