@@ -2,15 +2,9 @@
 # Proyecto de osTicket para el SENA
 Este proyecto de osTicket está diseñado para el Servicio Nacional de Aprendizaje (SENA) y tiene como objetivo mejorar la gestión de solicitudes y el soporte al cliente dentro de la organización.
 
-<img src="https://example.com/images/logo.png" alt="Logo de Mi Proyecto">
 
-![](https://github.com/Fab-sof-CTMA/PQRS_CTMA/Captura1.png)
 
-Fab-sof-CTMA
-/
-PQRS_CTMA
-
-<img src="https://example.com/./upload/images/oscar-favicon-16x16.png" alt="Logo de Mi Proyecto">
+![img1](https://github.com/Fab-sof-CTMA/PQRS_CTMA/assets/146457965/d5dddea9-48d9-4423-921b-8643c83e207f)
 
 
 ## Requisitos
