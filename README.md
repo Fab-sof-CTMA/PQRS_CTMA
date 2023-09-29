@@ -2,8 +2,9 @@
 # Proyecto de osTicket para el SENA
 Este proyecto de osTicket está diseñado para el Servicio Nacional de Aprendizaje (SENA) y tiene como objetivo mejorar la gestión de solicitudes y el soporte al cliente dentro de la organización.
 
-![Logo de Mi Proyecto](https://github.com/upload/images/img1.png)
+<img src="https://example.com/images/logo.png" alt="Logo de Mi Proyecto">
 
+<img src="../upload/images/oscar-favicon-16x16.png" alt="Logo de Mi Proyecto">
 
 
 ## Requisitos
