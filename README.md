@@ -4,6 +4,12 @@ Este proyecto de osTicket está diseñado para el Servicio Nacional de Aprendiza
 
 <img src="https://example.com/images/logo.png" alt="Logo de Mi Proyecto">
 
+![](https://github.com/Fab-sof-CTMA/PQRS_CTMA/Captura1.png)
+
+Fab-sof-CTMA
+/
+PQRS_CTMA
+
 <img src="https://example.com/./upload/images/oscar-favicon-16x16.png" alt="Logo de Mi Proyecto">
 
 
