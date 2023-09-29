@@ -1,2 +1,2 @@
 # PQRS_CTMA
-![Proyecto](https://upload/images/img1.png)
+![Proyecto](https://images/img1.png)
